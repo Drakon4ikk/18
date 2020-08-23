@@ -1,0 +1,23 @@
+
+body {
+	background: url(https://ktonanovenkogo.ru/image/hobbi-eto.jpg) 100%;
+}
+
+img {
+  height: 200px;
+  border-radius: 10px;
+  margin: 10px;
+  transition-duration: 1s;
+}
+
+.tag {
+	background-color: #ffffffcf;
+	display: table;
+	margin: 10px auto;
+	padding: 12px;
+	border-radius: 10px;
+}
+
+#menu {
+  position: fixed;
+}
